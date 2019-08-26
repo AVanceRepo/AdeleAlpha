@@ -1,0 +1,2 @@
+# AdeleAlpha
+Microsoft Teams Integrations
